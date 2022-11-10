@@ -6,7 +6,7 @@ https://www.youtube.com/watch?v=h2_RirdJPpg
 
 Includes:
  - Displays HP and MP in numeric form
- - Displays enemy HP
+ - Displays enemies' HP
  - Number keys and lives are displayed w/o pausing
  - Displays currently selected spell and MP cost
  - Displays damage taken.
